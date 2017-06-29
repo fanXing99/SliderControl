@@ -1,8 +1,8 @@
-#一个选择不同档位的控件 如果滑动超过的当前档位的一半制动修正到下一档位。
+##一个选择不同档位的控件 如果滑动超过的当前档位的一半制动修正到下一档位。
 
 ![](https://github.com/fanXing99/SliderControl/blob/master/ezgif.com-video-to-gif.gif)
 
-小圆点的样式在DotStyle.plist文件中
+##小圆点的样式在DotStyle.plist文件中
 
 
 ![](https://github.com/fanXing99/SliderControl/blob/master/C936F4FB-A0B9-4FE7-A236-57FA35C86FFF.png)
