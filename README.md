@@ -2,7 +2,7 @@
 
 ![](https://github.com/fanXing99/SliderControl/blob/master/ezgif.com-video-to-gif.gif)
 
-###小圆点的样式在DotStyle.plist文件中
+小圆点的样式在DotStyle.plist文件中
 ![](https://github.com/fanXing99/SliderControl/blob/master/C936F4FB-A0B9-4FE7-A236-57FA35C86FFF.png)
 ``` objective-c
 
