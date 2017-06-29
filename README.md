@@ -5,6 +5,7 @@
 ###小圆点的样式在DotStyle.plist文件中
 ![](https://github.com/fanXing99/SliderControl/blob/master/C936F4FB-A0B9-4FE7-A236-57FA35C86FFF.png)
 ``` objective-c
+
     //初始化ViewModel处理数据
     //SliderControl的背景颜色
     SliderConfig *sliderConfig = [[SliderConfig alloc] initWithOuterLayerColor:[UIColor greenColor] sliderColor:[UIColor yellowColor] imgStr:@"car"];
