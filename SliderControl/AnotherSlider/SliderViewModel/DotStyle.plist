@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>日租</string>
+		<key>sliderDotWidth</key>
+		<integer>10</integer>
+		<key>borderWidth</key>
+		<integer>1</integer>
+		<key>borderColor</key>
+		<string>FFFFFF</string>
+		<key>backColor</key>
+		<string>FF623F</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>月租</string>
+		<key>sliderDotWidth</key>
+		<integer>12</integer>
+		<key>borderWidth</key>
+		<integer>2</integer>
+		<key>borderColor</key>
+		<string>FFFFFF</string>
+		<key>backColor</key>
+		<string>FF623F</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>半年租</string>
+		<key>sliderDotWidth</key>
+		<integer>14</integer>
+		<key>borderWidth</key>
+		<integer>3</integer>
+		<key>borderColor</key>
+		<string>FFFFFF</string>
+		<key>backColor</key>
+		<string>FF623F</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>一年租</string>
+		<key>sliderDotWidth</key>
+		<integer>16</integer>
+		<key>borderWidth</key>
+		<integer>4</integer>
+		<key>borderColor</key>
+		<string>FFFFFF</string>
+		<key>backColor</key>
+		<string>FF623F</string>
+	</dict>
+</array>
+</plist>
